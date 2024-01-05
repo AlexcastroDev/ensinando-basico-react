@@ -2,7 +2,7 @@ repo_name: AlexcastroDev/ensinando-basico-react
 report_id: 43e163f3f11664616f528428f1a4ba7f
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T14:22:07+00:00'
+timestamp: '2024-01-05T08:12:09+00:00'
 requested_by: AlexcastroDev
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/AlexcastroDev/ensinando-basico-react
   detection_source: Repo Metadata
 - name: React
   description: A JavaScript library for building user interfaces
@@ -54,6 +55,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/AlexcastroDev/ensinando-basico-react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Alexandro
   last_updated_on: 2022-01-04 20:27:40.000000000 Z
@@ -80,6 +82,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/AlexcastroDev/ensinando-basico-react
   detection_source: Repo Metadata
 - name: Yarn
   description: A new package manager for JavaScript
@@ -89,6 +92,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/AlexcastroDev/ensinando-basico-react/blob/master/yarn.lock
   detection_source: yarn.lock
   last_updated_by: Alexandro
   last_updated_on: 2022-01-04 23:00:23.000000000 Z
@@ -100,6 +104,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/AlexcastroDev/ensinando-basico-react/blob/master/package.json
   detection_source: package.json
   last_updated_by: Alexandro
   last_updated_on: 2022-01-04 20:27:40.000000000 Z
